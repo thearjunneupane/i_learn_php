@@ -18,6 +18,11 @@
             <h2><i>&#8592; Get-Form</i></h2>
         </a>
 
+        
+        <a href="/i_learn_php/learn/File-Inclusion/include.php">
+            <h2><i>Include &#8594;</i></h2>
+        </a>
+
     </div>
 
     <?php

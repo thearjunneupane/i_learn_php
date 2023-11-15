@@ -36,6 +36,12 @@
             "GET Method in PHP" => "get-form.php",
             "POST Method in PHP" => "post-form.php"
         ),
+        "File-Inclusion" => array(
+            "include() in PHP" => "include.php",
+            "require() in PHP" => "require.php",
+            "include() vs require() in PHP" => "include-vs-require.php"
+        ),
+        
     );
      $i = 0;
     foreach ($contents as $subtopic => $topics) {
